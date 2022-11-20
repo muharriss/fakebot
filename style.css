@@ -36,8 +36,6 @@ input {
     padding:16px;
     font-size:15px;
     margin-right:5px ;
-    
-    
 }
 
 button {
@@ -51,39 +49,11 @@ button {
     cursor: pointer;
 }
 
-
 button:active {
     /* color: #6d6ddf; */
     background-color: #6d6ddf;
     transition: all .3s ease 0s;
 }
-
-.co-footer {
-    padding: 70px;
-    background-color: midnightblue;
-}
-
-.text-footer {
-    margin-left: 20px;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 500;
-    text-decoration: none;
-    color: white;
-}
-
-
-a {
-    text-decoration: none;
-    color: #6d6ddf;
-    margin: 5px;
-}
-
-p a:hover {
-    color: white;
-    cursor: pointer;
-    transition: all .5s ease 0s;
-}
-
 
 .answer2::-webkit-input-placeholder{
 	color: red; 
