@@ -36,8 +36,6 @@ input {
     padding:16px;
     font-size:15px;
     margin-right:5px ;
-    
-    
 }
 
 button {
@@ -50,7 +48,6 @@ button {
     font-size:15px;
     cursor: pointer;
 }
-
 
 button:active {
     /* color: #6d6ddf; */
@@ -83,7 +80,6 @@ p a:hover {
     cursor: pointer;
     transition: all .5s ease 0s;
 }
-
 
 .answer2::-webkit-input-placeholder{
 	color: red; 
